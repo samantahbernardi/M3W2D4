@@ -1,0 +1,13 @@
+.bg-red {
+    background-color: red;
+    height: 100px;
+}
+
+.navbar {
+    background-color: lightskyblue;
+}
+
+.navbar button {
+    color:blue;
+    border-color: blue;
+}
